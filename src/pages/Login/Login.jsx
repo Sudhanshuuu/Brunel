@@ -42,7 +42,7 @@ function Login() {
             >
                 &#10005;
             </div>
-            <div className="absolute m-[2%]  py-[2%] px-[3%]"><img src={logo} alt="logo"/></div>
+            <div className="absolute m-[2%]  py-[2%] px-[3%] transform scale-75"><img src={logo} alt="logo"/></div>
             <div className="absolute top-[50%] left-[50%] translate-x-[-50%] translate-y-[-50%] flex flex-col font-Manrope w-[80%] sm:w-auto">
                 <div className="text-center">
                     <div className="text-[#2DA950] font-Grace text-3xl">Registration Form</div>
